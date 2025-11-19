@@ -1,0 +1,7 @@
+For the Dataset Paper I need to present what I did for data processing. (Not sure exactly what is overall data processing and what is more for the one paper with MRCP) Maybe with markers etc mentioning that. 
+
+SNR
+Quality of data before and after artifact rejection.
+for the dataset paper
+
+Transform Thesis into EEG-Paper
